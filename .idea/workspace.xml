@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ba1d515-afd5-44c4-9cf7-6553c3fe0e86" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1yV5vx9mn5tHfRtruTkKiCqGToq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ba1d515-afd5-44c4-9cf7-6553c3fe0e86" name="Default Changelist" comment="" />
+      <created>1632324148145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632324148145</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="8" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1632414482572">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="8" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1632414482572" />
+    <state x="496" y="115" key="FileChooserDialogImpl" timestamp="1632324280537">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="496" y="115" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1632324280537" />
+    <state x="210" y="176" key="run.anything.popup" timestamp="1632413009125">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="210" y="176" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1632413009125" />
+  </component>
+</project>
